@@ -17,6 +17,7 @@ namespace Github___Testing
             Console.WriteLine("This git is weird");
             Console.WriteLine("Forth commit fra Stefaarn Branch");
             Console.WriteLine("Fifth commit");
+            Console.ReadLine();
         }
     }
 }
