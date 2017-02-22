@@ -9,7 +9,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            //Så skal der testes 
+            Console.WriteLine(  "testing");
         }
     }
 }
