@@ -11,6 +11,7 @@ namespace Github___Testing
         static void Main(string[] args)
         {
             Console.WriteLine("First Commit");
+            Console.WriteLine("Second Commit fra egen branch");
         }
     }
 }
