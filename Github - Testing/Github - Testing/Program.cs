@@ -13,7 +13,8 @@ namespace Github___Testing
             Console.WriteLine("First Commit");
             Console.WriteLine("Second Commit fra egen branch");
             Console.WriteLine("Third Commit fra CharlieDogy branch");
-            Console.WriteLine("Foruth commit fra Stefaarn Branch");
+            Console.WriteLine("Forth commit fra Stefaarn Branch");
+            Console.WriteLine("Fifth commit");
         }
     }
 }
